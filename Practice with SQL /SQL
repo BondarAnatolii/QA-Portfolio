@@ -73,33 +73,33 @@ INSERT INTO Rooms (RoomNumber, Hotelldy) Values
 (103, 1),
 (200, 1),
 (201, 1),
-(1,	2),
-(2,	2),
-(3,	2),
-(4,	2)
+(1, 2),
+(2, 2),
+(3, 2),
+(4, 2)
 
 SELECT	*	from	clients
 SELECT	*	FROM	Hotels
 SELECT	*	FROM	Rooms
 SELECT	*	FROM	Orders
 
-SELECT	*	FROM	Orders 30IN	Clients on orders.Clientld = Clients.dientld
-SELECT	*	FROM	Orders 101N	Rooms on Orders.RooMld = rooms.RooMld
-SELECT	*	FROM	Rooms RIGHT	30IN Hotels on Hotels.Hotelld - rooms.Hotelldy
+SELECT	* FROM	Orders 30IN	Clients on orders.Clientld = Clients.dientld
+SELECT	* FROM	Orders 101N	Rooms on Orders.RooMld = rooms.RooMld
+SELECT	* FROM	Rooms RIGHT	30IN Hotels on Hotels.Hotelld - rooms.Hotelldy
 
 INSERT INTO Hotels (HotelNaae, starsCount, CreationYear, Adress) VALUES
 (‘Amanda’, 3, 2009, ‘Kaye’)
 
 INSERT INTO Orders (Clientld, RooMld, Price, DaysCount) VALUES
-(1,	1,	100, 1),
-(2,	4,	1000, 2),
-(3,	2,	100, 2),
-(4,	3,	1000, 1),
-(5,	5,	250,	1),
-(6,	1,	300,	3),
-(7,	6,	400,	1),
-(8,	2,	500,	2),
-(9,	2,	700,	3),
+(1, 1, 100, 1),
+(2, 4, 1000, 2),
+(3, 2, 100, 2),
+(4, 3, 1000, 1),
+(5, 5, 250, 1),
+(6, 1, 300, 3),
+(7, 6, 400, 1),
+(8, 2, 500, 2),
+(9, 2, 700, 3),
 (10, 3, 800, 4)
 
 SELECT Price, Count(Price) Froe Orders GROUP BY Price
