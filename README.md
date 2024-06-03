@@ -1,7 +1,7 @@
 <b>Looking for a job as a QA Tester</b>
 
 I'm learning how to test websites and apps on Android.
-Completed training and practical application of acquired skills in the Utest system.
+Completed training and practical application of acquired skills in the Utest Academy.
 
 Open to new experiences and professional challenges. I am looking for stationary, hybrid, or remote work that will enable me to develop and expand my current qualifications and interests, gain experience, and learn new skills.
 
@@ -30,6 +30,7 @@ Open to new experiences and professional challenges. I am looking for stationary
 <ul><li>SQL;</li>
 <li>GIT;</li>
 <li>HTML;</li>
+<li>Python;</li>
 <li>Creating test cases;</li>
 <li>Software testing;</li>
 <li>Reporting bugs;</li>
