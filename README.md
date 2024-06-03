@@ -7,17 +7,17 @@ Open to new experiences and professional challenges. I am looking for stationary
 
 
 <b><h1>Tools</h1></b>
-<ul><li>Visual Studio Code - Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications;</li>
-<li>PyCharm - Integrated development environment;</li>
+<ul><li><a href="https://code.visualstudio.com">Visual Studio Code</a>- Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications;</li>
+<li><a href="https://www.jetbrains.com/pycharm/">PyCharm</a>- Integrated development environment;</li>
 <li><a href="https://www.atlassian.com/pl/software/jira">Jira</a>- bug tracker;</li>
-<li>TestRail - test cases management;</li>
-<li>Slack - for communication within the team;</li>
-<li>Chrome DevTools - for testing and to improve bug reports;</li>
-<li>Google Drive - storing data;</li>
-<li>Git - for better work in development team and controlling software versions;</li>
-<li>GitHub - supporting Git and preparing my repositories;</li>
-<li>MySQL - relational database management system;</li>
-<li>Selenium WebDriver - for automated testing of web applications;</li>
-<li>VirtualBox - a free and open-source hosted hypervisor;</li>
-<li>VMware Workstation Player - allows you to run a second, isolated operating system on a single PC;</li>
+<li><a href="https://www.testrail.com">TestRail</a>- test cases management;</li>
+<li><a href="https://slack.com">Slack</a>- for communication within the team;</li>
+<li><a href="https://developer.chrome.com/docs/devtools">Chrome DevTools</a>- for testing and to improve bug reports;</li>
+<li><a href="https://www.google.com/drive/">Google Drive</a>- storing data;</li>
+<li><a href="https://www.git-scm.com">Git</a>- for better work in development team and controlling software versions;</li>
+<li><a href="https://github.com">GitHub</a>- supporting Git and preparing my repositories;</li>
+<li><a href="https://www.mysql.com">MySQL</a>- relational database management system;</li>
+<li><a href="https://www.selenium.dev/downloads/">Selenium WebDriver</a>- for automated testing of web applications;</li>
+<li><a href="https://www.virtualbox.org">VirtualBox</a>- a free and open-source hosted hypervisor;</li>
+<li><a href="https://www.vmware.com/products/desktop-hypervisor.html">VMware Workstation Player</a>- allows you to run a second, isolated operating system on a single PC;</li>
 </ul>
