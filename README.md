@@ -5,11 +5,16 @@ Completed training and practical application of acquired skills in the Utest sys
 
 Open to new experiences and professional challenges. I am looking for stationary, hybrid, or remote work that will enable me to develop and expand my current qualifications and interests, gain experience, and learn new skills.
 
+<b><h1>Courses</h1></b>
+<ul><li><a href="https://www.utest.com">uTest Academy</a></li>
+<li><a href="https://www.linkedin.com/learning/certificates/77774448fae4698f60218d38e3abb5f618ae8ea8af59f5afff5f6cb99354284f?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BRhBZnIsZR%2Fm%2FOIQ5Oz4A9g%3D%3D">Learning Git and GitHub</li>
+</ul>
 
 <b><h1>Tools</h1></b>
 <ul><li><a href="https://code.visualstudio.com">Visual Studio Code</a>- Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications;</li>
 <li><a href="https://www.jetbrains.com/pycharm/">PyCharm</a>- Integrated development environment;</li>
 <li><a href="https://www.atlassian.com/pl/software/jira">Jira</a>- bug tracker;</li>
+<li><a href="https://www.postman.com">Postman</a>- Testing tool for REST API</li>
 <li><a href="https://www.testrail.com">TestRail</a>- test cases management;</li>
 <li><a href="https://slack.com">Slack</a>- for communication within the team;</li>
 <li><a href="https://developer.chrome.com/docs/devtools">Chrome DevTools</a>- for testing and to improve bug reports;</li>
