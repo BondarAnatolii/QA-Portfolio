@@ -1,3 +1,14 @@
+<b><h2>SOFTWARE TESTER PORTFOLIO</h2></b>
+
+<b><h1>TABLE OF CONTENTS</h1></b>
+<ul><li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#about-me">About me</a>
+
+
+<b><h1 id="about-me">About me</h1></b>
+My name is Anatolii Bondar. I recently embarked on a career change journey to become a Software Tester. This career path has interested me for quite a while, so I am excited to be given a chance to prove my skills. High quality is the bestselling point of services and products. Thanks to my diversified experience I have highly developed interpersonal skills and empathy, which help me see the bigger picture and function well within a team. My international experience has also equipped me with valuable tools, such as open-mindedness and adaptability. In this portfolio, I would like to share my testing knowledge and exhibit my technical skills, which I gained during the testing course I have completed and through self-learning. I am determined to prove the skills I have already acquired and keep developing in this field. This is why I am now looking for a junior position in testing.
+
+
+
 <b>Looking for a job as a QA Tester</b>
 
 I'm learning how to test websites and apps on Android.
