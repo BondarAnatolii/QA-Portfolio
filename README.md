@@ -24,5 +24,15 @@ Open to new experiences and professional challenges. I am looking for stationary
 <li><a href="https://www.mysql.com">MySQL</a>- relational database management system;</li>
 <li><a href="https://www.selenium.dev/downloads/">Selenium WebDriver</a>- for automated testing of web applications;</li>
 <li><a href="https://www.virtualbox.org">VirtualBox</a>- a free and open-source hosted hypervisor;</li>
-<li><a href="https://www.vmware.com/products/desktop-hypervisor.html">VMware Workstation Player</a>- allows you to run a second, isolated operating system on a single PC;</li>
-</ul>
+<li><a href="https://www.vmware.com/products/desktop-hypervisor.html">VMware Workstation Player</a>- allows you to run a second, isolated operating system on a single PC;</li></ul>
+
+<b><h1>Tech skills</b></h1>
+<ul><li>SQL;</li>
+<li>GIT;</li>
+<li>HTML;</li>
+<li>Creating test cases;</li>
+<li>Software testing;</li>
+<li>Reporting bugs;</li>
+<li>DevTools</li></ul>
+
+
