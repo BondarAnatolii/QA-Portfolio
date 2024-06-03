@@ -7,11 +7,17 @@ Open to new experiences and professional challenges. I am looking for stationary
 
 
 <b><h1>Tools</h1></b>
-<ul><li>Jira - bug tracker;</li>
+<ul><li>Visual Studio Code - Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications;</li>
+<li>PyCharm - Integrated development environment;</li>
+<li>Jira - bug tracker;</li>
 <li>TestRail - test cases management;</li>
 <li>Slack - for communication within the team;</li>
 <li>Chrome DevTools - for testing and to improve bug reports;</li>
-<li>Git, Git Bash, GitHub;</li>
+<li>Google Drive - storing data;</li>
+<li>Git - for better work in development team and controlling software versions;</li>
+<li>GitHub - supporting Git and preparing my repositories;</li>
 <li>MySQL - relational database management system;</li>
 <li>Selenium WebDriver - for automated testing of web applications;</li>
+<li>VirtualBox - a free and open-source hosted hypervisor;</li>
+<li>VMware Workstation Player - allows you to run a second, isolated operating system on a single PC;</li>
 </ul>
