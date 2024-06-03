@@ -1,6 +1,6 @@
 <b><h2>SOFTWARE TESTER PORTFOLIO</h2></b>
 
-<b><h1>TABLE OF CONTENTS</h1></b>
+<b><h2>TABLE OF CONTENTS</h2></b>
 <ul><li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#about-me">About me</a>
 
 
