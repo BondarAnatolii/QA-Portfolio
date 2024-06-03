@@ -2,26 +2,20 @@
 
 <b><h2>TABLE OF CONTENTS</h2></b>
 <ul><li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#about-me">About me</a>
+<ul><li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#courses">Courses</a>
+<ul><li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#tools">Tools</a>
+<ul><li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#tech-skills">Tech skills</a>
 
 
 <b><h1 id="about-me">About me</h1></b>
 My name is Anatolii Bondar. I recently embarked on a career change journey to become a Software Tester. This career path has interested me for quite a while, so I am excited to be given a chance to prove my skills. High quality is the bestselling point of services and products. Thanks to my diversified experience I have highly developed interpersonal skills and empathy, which help me see the bigger picture and function well within a team. My international experience has also equipped me with valuable tools, such as open-mindedness and adaptability. In this portfolio, I would like to share my testing knowledge and exhibit my technical skills, which I gained during the testing course I have completed and through self-learning. I am determined to prove the skills I have already acquired and keep developing in this field. This is why I am now looking for a junior position in testing.
 
-
-
-<b>Looking for a job as a QA Tester</b>
-
-I'm learning how to test websites and apps on Android.
-Completed training and practical application of acquired skills in the Utest Academy.
-
-Open to new experiences and professional challenges. I am looking for stationary, hybrid, or remote work that will enable me to develop and expand my current qualifications and interests, gain experience, and learn new skills.
-
-<b><h1>Courses</h1></b>
+<b><h1 id="courses">Courses</h1></b>
 <ul><li><a href="https://www.utest.com">uTest Academy</a></li>
 <li><a href="https://www.linkedin.com/learning/certificates/77774448fae4698f60218d38e3abb5f618ae8ea8af59f5afff5f6cb99354284f?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BRhBZnIsZR%2Fm%2FOIQ5Oz4A9g%3D%3D">Learning Git and GitHub at LinkedIn</li>
 <li><a href="https://www.linkedin.com/learning/certificates/453eeeca623770457159bad351a1d85980f441518344a7af29fd633e88dc194b">SQL for Testers at LinkedIn</a></li></ul>
 
-<b><h1>Tools</h1></b>
+<b><h1 id="tools">Tools</h1></b>
 <ul><li><a href="https://code.visualstudio.com">Visual Studio Code</a>- Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications;</li>
 <li><a href="https://www.jetbrains.com/pycharm/">PyCharm</a>- Integrated development environment;</li>
 <li><a href="https://www.atlassian.com/pl/software/jira">Jira</a>- bug tracker;</li>
@@ -37,7 +31,7 @@ Open to new experiences and professional challenges. I am looking for stationary
 <li><a href="https://www.virtualbox.org">VirtualBox</a>- a free and open-source hosted hypervisor;</li>
 <li><a href="https://www.vmware.com/products/desktop-hypervisor.html">VMware Workstation Player</a>- allows you to run a second, isolated operating system on a single PC;</li></ul>
 
-<b><h1>Tech skills</b></h1>
+<b><h1 id="tech-skills">Tech skills</b></h1>
 <ul><li>SQL;</li>
 <li>GIT;</li>
 <li>HTML;</li>
