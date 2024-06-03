@@ -1,10 +1,10 @@
 <b><h2>SOFTWARE TESTER PORTFOLIO</h2></b>
 
 <b><h2>TABLE OF CONTENTS</h2></b>
-<ul><li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#about-me">About me</a>
-<ul><li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#courses">Courses</a>
-<ul><li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#tools">Tools</a>
-<ul><li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#tech-skills">Tech skills</a>
+<ul><li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#about-me">About me</a></li>
+<li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#courses">Courses</a></li>
+<li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#tools">Tools</a></li>
+<li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#tech-skills">Tech skills</a></li></ul>
 
 
 <b><h1 id="about-me">About me</h1></b>
