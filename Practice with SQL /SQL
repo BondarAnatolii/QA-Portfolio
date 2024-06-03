@@ -1,1 +1,122 @@
+CREATE TABLE Hotels
+(
+	HotelId int IDENTITY NOT NULL PRIMARY KEY,
+	HotelName varcar(20) NOT NULL,
+	StarsCount int NOT NULL,
+	CreationYear int NOT NULL,
+	Adress varcar(40)
+)
 
+CREATE TABLE rooms (
+     did    integer PRIMARY KEY DEFAULT nextval('serial'),
+     name   varchar(40) NOT NULL CHECK (name <> '')
+);
+
+
+CREATE TABLE Clients
+(
+	clientId int INDENTITY NOT NULL PRIMARY KEY,
+	ClientName varchar(20),
+	Email varchar(20),
+	Age int NOT NULL
+)
+
+CREATE TABLE Orders
+(
+	OrderId int INDENTITY NOT NULL PRIMARY KEY,
+	ClientId int NOT NULL FOREIGN KEY REFERENCE Clients(ClientId),
+	RoomId int NOT NULL ROFEIGN KEY REFERENCES Rooms(RoomId),
+	Price int NOT NULL,
+	DaysCount int NOT NULL
+)
+
+SELECT TOP (1000) [HotelId]
+	,[HotelName]
+	,[StartCount]
+	,[CreationYear]
+	,[Adress]
+FROM [HotelDB].[dbo].[rooms]
+
+INSERT INTO Clients (ClientName,Email,Age) VALUES
+('Travis','michael@techcrunch.com',25),
+('Larry Page','larry.page@google.com',30),
+('Tim Cook','tcook@apple.com',35),
+('John Collison','collison@stripe.com',40),
+('Ev Williams','ev@medium.com',20),
+
+SELECT * FROM Clients WHERE Age = 20
+SELECT Clients.ClientName, Clients.Email FROM Clients
+SELECT * FROM Clients
+
+SELECT * FROM Clients WHERE Clients.clientName = 'Travis'
+SELECT * FROM	Clients	WHERE	Clients.ClientName	Like 'a%'
+SELECT * FROM	Clients	WHERE	Clients.ClientName	Like 'Travis'
+SELECT * FROM	Clients	WHERE	Clients.ClientName	Like 'Tr_vis'
+SELECT * FROM	Clients	WHERE	Clients.ClientName	Like ''
+SELECT * FROM	Clients	WHERE	Clients.ClientName	Like 'a%g'
+SELECT * FROM	Clients	WHERE	Email Like '%@%'
+SELECT Clients.Clientld, Clients.ClientName, Clients.Email, Age FROM Clients WHERE Age = 25
+SELECT Count(Age) as AgeCount FROM Clients WHERE Age = 25
+SELECT	SUM	(Age)	as SumAge FROM	Clients WHERE ClientName Like 'A%'
+SELECT	Avg	(Age)	as AvgAge FROM	Clients
+SELECT	MAX	(Age)	FROM Clients
+SELECT	MIN	(Age)	FROM clients
+
+INSERT INTO Hotels (HotelName, StarsCount, CreationYear, Adress) VALUES
+('Amangiri', 5, 2009, '1 Kayenta Rd’),
+('Post Ranch Inn',	5, 1971, '47900 Highway 1')
+
+INSERT INTO Rooms (RoomNumber, Hotelldy) Values
+(100, 1),
+(101, 1),
+(102, 1),
+(103, 1),
+(200, 1),
+(201, 1),
+(1,	2),
+(2,	2),
+(3,	2),
+(4,	2)
+
+SELECT	*	from	clients
+SELECT	*	FROM	Hotels
+SELECT	*	FROM	Rooms
+SELECT	*	FROM	Orders
+
+SELECT	*	FROM	Orders 30IN	Clients on orders.Clientld = Clients.dientld
+SELECT	*	FROM	Orders 101N	Rooms on Orders.RooMld = rooms.RooMld
+SELECT	*	FROM	Rooms RIGHT	30IN Hotels on Hotels.Hotelld - rooms.Hotelldy
+
+INSERT INTO Hotels (HotelNaae, starsCount, CreationYear, Adress) VALUES
+(‘Amanda’, 3, 2009, ‘Kaye’)
+
+INSERT INTO Orders (Clientld, RooMld, Price, DaysCount) VALUES
+(1,	1,	100, 1),
+(2,	4,	1000, 2),
+(3,	2,	100, 2),
+(4,	3,	1000, 1),
+(5,	5,	250,	1),
+(6,	1,	300,	3),
+(7,	6,	400,	1),
+(8,	2,	500,	2),
+(9,	2,	700,	3),
+(10, 3, 800, 4)
+
+SELECT Price, Count(Price) Froe Orders GROUP BY Price
+SELECT DaysCount, Count(DaysCount) From Orders GROUP BY DaysCount
+SELECT Age, Count(Age) FROM Clients GROUP BY Age
+SELECT Rooeld, MAX(Price) FROM Orders GROUP BY Roo*Id
+
+SELECT Age, Count(Age) FROM Clients GROUP BY Age HAVING Age <31
+
+SELECT * FROM Orders ORDER BY Price DESC
+SELECT * FROM Clients ORDER BY ClientNaae DESC
+
+UPDATE Hotels SET StarsCount = 4 WHERE Hotelld = 1
+UPDATE Hotels SET StarsCount = 5 WHERE Hotelld = 2
+
+UPDATE Hotels SET StarsCount = 1 , CreationYear = 2009, Adress = ‘USA' WHERE Hotelld=1
+
+DELETE FROM Hotels WHERE Hotelld =1	
+
+DROP TABLE Hotels
