@@ -9,7 +9,7 @@ Open to new experiences and professional challenges. I am looking for stationary
 <b><h1>Tools</h1></b>
 <ul><li>Visual Studio Code - Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications;</li>
 <li>PyCharm - Integrated development environment;</li>
-<li>Jira - bug tracker;</li>
+<li><a href="https://www.atlassian.com/pl/software/jira">Jira</a>- bug tracker;</li>
 <li>TestRail - test cases management;</li>
 <li>Slack - for communication within the team;</li>
 <li>Chrome DevTools - for testing and to improve bug reports;</li>
