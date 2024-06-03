@@ -1,4 +1,4 @@
-Looking for a job as a QA Tester
+<b>Looking for a job as a QA Tester</b>
 
 I'm learning how to test websites and apps on Android.
 Completed training and practical application of acquired skills in the Utest system.
