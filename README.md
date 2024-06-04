@@ -37,6 +37,7 @@ My name is Anatolii Bondar. I recently embarked on a career change journey to be
 <li>HTML;</li>
 <li>Python;</li>
 <li>Creating test cases;</li>
+<li>Website Usability Testing;</li>
 <li>Software testing;</li>
 <li>Reporting bugs;</li>
 <li>DevTools</li></ul>
