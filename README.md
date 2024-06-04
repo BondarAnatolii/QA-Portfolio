@@ -9,7 +9,7 @@
 
 <b><h1 id="about-me" text-align="justify">About me</h1></b>
 My name is Anatolii Bondar. I recently embarked on a career change journey to become a Software Tester. This career path has interested me for quite a while, so I am excited to be given a chance to prove my skills. High quality is the bestselling point of services and products. Thanks to my diversified experience I have highly developed interpersonal skills and empathy, which help me see the bigger picture and function well within a team. 
-<br><b><h1 id="about-me" text-align="justify"> In this portfolio, I would like to share my testing knowledge and exhibit my technical skills, which I gained during the testing course I have completed and through self-learning. I am determined to prove the skills I have already acquired and keep developing in this field. This is why I am now looking for a junior position in testing.
+<br><b><h1 id="about-me" text-align="justify"> In this portfolio, I would like to share my testing knowledge and exhibit my technical skills, which I gained during the testing course I have completed and through self-learning. I am determined to prove the skills I have already acquired and keep developing in this field. This is why I am now looking for a junior position in testing.</h1>
 
 <b><h1 id="courses">Courses</h1></b>
 <ul><li><a href="https://www.utest.com">uTest Academy</a></li>
