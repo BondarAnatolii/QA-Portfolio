@@ -19,7 +19,7 @@ My name is Anatolii Bondar. I recently embarked on a career change journey to be
 <ul><li><a href="https://code.visualstudio.com">Visual Studio Code</a>- Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications;</li>
 <li><a href="https://www.jetbrains.com/pycharm/">PyCharm</a>- Integrated development environment;</li>
 <li><a href="https://www.atlassian.com/pl/software/jira">Jira</a>- bug tracker;</li>
-<li><a href="https://www.postman.com">Postman</a>- Testing tool for REST API</li>
+<li><a href="https://www.postman.com">Postman</a>- Testing tool for REST API;</li>
 <li><a href="https://www.testrail.com">TestRail</a>- test cases management;</li>
 <li><a href="https://slack.com">Slack</a>- for communication within the team;</li>
 <li><a href="https://developer.chrome.com/docs/devtools">Chrome DevTools</a>- for testing and to improve bug reports;</li>
