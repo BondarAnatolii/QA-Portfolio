@@ -40,5 +40,6 @@ My name is Anatolii Bondar. I recently embarked on a career change journey to be
 <li>Creating test cases;</li>
 <li>Website Usability Testing;</li>
 <li>Software testing;</li>
+<li>Multi-browser testing;</li>
 <li>Reporting bugs;</li>
 <li>Chrome DevTools</li></ul>
