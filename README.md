@@ -46,6 +46,6 @@ My name is Anatolii Bondar. I recently embarked on a career change journey to be
 
 
 <b><h1 id="issues">issues</h1></b>
-<li>https://github.com/BondarAnatolii/QA-Portfolio/issues/1
+<ul><li><a href="https://github.com/BondarAnatolii/QA-Portfolio/issues/1">Getting an error "XML file does not appear" when I want to open the website https://www.lidl.pl</a></li></ul> 
 
 
