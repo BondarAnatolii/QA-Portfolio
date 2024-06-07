@@ -44,7 +44,6 @@ My name is Anatolii Bondar. I recently embarked on a career change journey to be
 <li>Reporting bugs;</li>
 <li>Chrome DevTools</li></ul>
 
-
-<b><h1 id="issues">issues</h1></b>
+<b><h1 id="issues">Issues</h1></b>
 <ul><li><a href="https://github.com/BondarAnatolii/QA-Portfolio/issues/1">Getting an error "XML file does not appear" when I want to open the website https://www.lidl.pl</a></li>
 <li><a href="https://github.com/BondarAnatolii/QA-Portfolio/issues/2#issuecomment-2155500405">The description of the picture does not correspond to the image</a></li></ul> 
