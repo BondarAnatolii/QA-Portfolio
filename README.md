@@ -4,8 +4,8 @@
 <ul><li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#about-me">About me</a></li>
 <li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#courses">Courses</a></li>
 <li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#tools">Tools</a></li>
-<li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#tech-skills">Tech skills</a></li></ul>
-
+<li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#tech-skills">Tech skills</a></li>
+<li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#issues">Issues<a></li></ul>
 
 <b><h1 id="about-me" text-align="justify">About me</h1></b>
 My name is Anatolii Bondar. I recently embarked on a career change journey to become a Software Tester. This career path has interested me for quite a while, so I am excited to be given a chance to prove my skills. High quality is the bestselling point of services and products. Thanks to my diversified experience I have highly developed interpersonal skills and empathy, which help me see the bigger picture and function well within a team. 
@@ -43,3 +43,9 @@ My name is Anatolii Bondar. I recently embarked on a career change journey to be
 <li>Multi-browser testing;</li>
 <li>Reporting bugs;</li>
 <li>Chrome DevTools</li></ul>
+
+
+<b><h1 id="issues">issues</h1></b>
+<li>https://github.com/BondarAnatolii/QA-Portfolio/issues/1
+
+
