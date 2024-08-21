@@ -5,8 +5,8 @@
 <li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#courses">Courses</a></li>
 <li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#tools">Tools</a></li>
 <li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#tech-skills">Tech skills</a></li>
-<li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#TestCases">Test Cases<a></li> <br>
-<li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#GoIT">GoIT<a></li>
+<li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#TestCases">Test Cases<a></li> 
+<ol><li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#GoIT">GoIT</a>/li></ol>
 <li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#issues">Issues<a></li></ul>
 
 <b><h1 id="about-me" text-align="justify">About me</h1></b>
