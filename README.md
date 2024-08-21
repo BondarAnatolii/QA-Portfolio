@@ -5,7 +5,7 @@
 <li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#courses">Courses</a></li>
 <li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#tools">Tools</a></li>
 <li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#tech-skills">Tech skills</a></li>
-<li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#TestCases">Test Cases<a></li>
+<li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#TestCases">Test Cases<a></li> <br>
 <li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#GoIT">GoIT<a></li>
 <li><a href="https://github.com/BondarAnatolii/QA-Portfolio/#issues">Issues<a></li></ul>
 
@@ -46,8 +46,8 @@ My name is Anatolii Bondar. I recently embarked on a career change journey to be
 <li>Reporting bugs;</li>
 <li>Chrome DevTools</li></ul>
 
-<ul><li><b>><h1 id="TestCases">Test Cases</h1></b></li></ul>
-<ul><li><b><h2 id="GoIT">GoIT</h1></b></li></ul>
+<b><h1 id="TestCases">Test Cases</h1></b>
+<b><h2 id="GoIT">GoIT</h1></b>
 <ul><li><a href="https://github.com/user-attachments/assets/4f658603-61d3-4c61-935f-637ebb81273f">Ability to save user data using only mandatory fields</a></li></ul> 
 
 <b><h1 id="issues">Issues</h1></b>
