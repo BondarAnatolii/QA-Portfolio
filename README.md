@@ -46,8 +46,8 @@ My name is Anatolii Bondar. I recently embarked on a career change journey to be
 <li>Reporting bugs;</li>
 <li>Chrome DevTools</li></ul>
 
-<b><h1 id="TestCases">Test Cases</h1></b>
-<b><h2 id="GoIT">GoIT</h1></b>
+<ul><b><li><h1 id="TestCases">Test Cases</h1></b></ul>
+<ul><b><h2 id="GoIT">GoIT</h1></b>
 <ul><li><a href="https://github.com/user-attachments/assets/4f658603-61d3-4c61-935f-637ebb81273f">Ability to save user data using only mandatory fields</a></li></ul> 
 
 <b><h1 id="issues">Issues</h1></b>
