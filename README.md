@@ -50,10 +50,7 @@ My name is Anatolii Bondar. I recently embarked on a career change journey to be
 <ul><ol><li><b><h2 id="GoIT">GoIT</h1></b></li>
 <li><a href="https://github.com/user-attachments/assets/03d69612-dd06-4bcf-852d-9c6259cdc3bd">Ability to save user data using only mandatory fields</a></li>
 <li><a href="https://github.com/user-attachments/assets/38595588-b791-45f7-b863-a4b64e6a0645">Ability to save user data using all fields</a></li>
-<li><a href="">The behavior of the form when incorrect data is entered in the numeric fields - text, and in the text - numeric</a></li></ol><ul>
-
-
-
+<li><a href="https://github.com/user-attachments/assets/cc2cb0e8-61ae-4620-a55e-b42bcdecce06">The behavior of the form when incorrect data is entered in the numeric fields - text, and in the text - numeric</a></li></ol><ul>
 
 </ol></ul> 
 
