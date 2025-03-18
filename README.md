@@ -13,11 +13,11 @@
 My name is Anatolii Bondar. I recently embarked on a career change journey to become a Software Tester. This career path has interested me for quite a while, so I am excited to be given a chance to prove my skills. High quality is the bestselling point of services and products. Thanks to my diversified experience I have highly developed interpersonal skills and empathy, which help me see the bigger picture and function well within a team. 
 <br>In this portfolio, I would like to share my testing knowledge and exhibit my technical skills, which I gained during the testing course I have completed and through self-learning. I am determined to prove the skills I have already acquired and keep developing in this field. This is why I am now looking for a junior position in testing.</h1>
 
-<b><h1 id="courses">Courses</h1></b>
-<ul><li><a href="https://www.utest.com">uTest Academy</a></li>
-<li><a href="https://www.linkedin.com/learning/certificates/77774448fae4698f60218d38e3abb5f618ae8ea8af59f5afff5f6cb99354284f?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BRhBZnIsZR%2Fm%2FOIQ5Oz4A9g%3D%3D">Learning Git and GitHub at LinkedIn</li>
+<b><h1 id="courses">Сertificates</h1></b>
+<ul><li><a href="https://www.linkedin.com/learning/certificates/77774448fae4698f60218d38e3abb5f618ae8ea8af59f5afff5f6cb99354284f?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BRhBZnIsZR%2Fm%2FOIQ5Oz4A9g%3D%3D">Learning Git and GitHub at LinkedIn</li>
 <li><a href="https://www.linkedin.com/learning/certificates/453eeeca623770457159bad351a1d85980f441518344a7af29fd633e88dc194b">SQL for Testers at LinkedIn</a></li>
-<li><a href="https://to.twoje-kursy.pl/next/public/training/6">Zostań Testerem Manualnym</a></li>
+<li><a href="https://drive.google.com/file/d/1cNEOI0T5RgKsFFfr3zGu6qpFNPZqH2qe/view?usp=drive_link>Zostań Testerem Oprogramowania</a></li>
+<li><a href="https://drive.google.com/file/d/1P8pLML6C4XYVznAiaLs29TYIDrZ8I40w/view?usp=drive_link)>Wprowadzenie do MongoDB dla Testera</a></li>  
 </ul>
 
 <b><h1 id="tools">Tools</h1></b>
