@@ -16,8 +16,8 @@ My name is Anatolii Bondar. I recently embarked on a career change journey to be
 <b><h1 id="courses">Сertificates</h1></b>
 <ul><li><a href="https://www.linkedin.com/learning/certificates/77774448fae4698f60218d38e3abb5f618ae8ea8af59f5afff5f6cb99354284f?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BRhBZnIsZR%2Fm%2FOIQ5Oz4A9g%3D%3D">Learning Git and GitHub at LinkedIn</li>
 <li><a href="https://www.linkedin.com/learning/certificates/453eeeca623770457159bad351a1d85980f441518344a7af29fd633e88dc194b">SQL for Testers at LinkedIn</a></li>
-<li><a href="https://drive.google.com/file/d/1cNEOI0T5RgKsFFfr3zGu6qpFNPZqH2qe/view?usp=drive_link>Zostań Testerem Oprogramowania</a></li>
-<li><a href="https://drive.google.com/file/d/1P8pLML6C4XYVznAiaLs29TYIDrZ8I40w/view?usp=drive_link>Wprowadzenie do MongoDB dla Testera</a></li>  
+<li><a href="https://drive.google.com/file/d/1cNEOI0T5RgKsFFfr3zGu6qpFNPZqH2qe/view?usp=drive_link>Zostań Testerem Oprogramowania"</a></li>
+<li><a href="https://drive.google.com/file/d/1P8pLML6C4XYVznAiaLs29TYIDrZ8I40w/view?usp=drive_link>Wprowadzenie do MongoDB dla Testera"</a></li>  
 </ul>
 
 <b><h1 id="tools">Tools</h1></b>
